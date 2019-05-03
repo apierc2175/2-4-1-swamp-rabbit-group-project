@@ -40,8 +40,6 @@ After completing this assignment, you will be able to effectively use:
 
 * A low fidelity wireframe to create an html prototype
 * @media queries
-* Bootstrap CSS classes
-* HTML
 
 ## Details
 
