@@ -37,7 +37,7 @@ After completing this assignment, you will be able to effectively use:
   * `index.html`
   * `css/styles.css`
   * `css/normalize.css'
-  * `images/
+  * `images/`
 
 ## I'm a Web Developer Mode
 
