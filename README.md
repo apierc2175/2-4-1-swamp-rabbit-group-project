@@ -12,18 +12,6 @@ The purpose of this project is to create an online presence to help promote our 
 
 We also understand the need to keep up with current design trends to help market our business. We’ve currently been using the attached clipart to serve as our logo and realize how updating our look will help us grow.
 
-### Single Page Website
-While we do have plans to expand our website, we’re currently needing something up and running as soon as possible. Here are some of the items we’ll need by next week (also included in the wireframe):
-
-- Single page where users are able to get our address + contact information
-- Etsy product listing of our bikes available in Greenville
-
-The etsy api url to use is: https://api.etsy.com/v2/listings/active.js?api_key=cdwxq4soa7q4zuavbtynj8wx&keywords=bicycle&includes=Images,Shop&sort_on=score
-
-You can swap out the "bicycle" querystring keyword with any search term that you think gives you better results.
-
-Being in a mobile driven age, we understand the importance of being mobile friendly. We’ve created a second wireframe to display the mobile view of a website.
-
 ## Objectives
 
 ### Learning Objectives
@@ -75,7 +63,7 @@ After completing this assignment, you will be able to effectively use:
   * Add desktop styles for header
   * Add desktop styles for body content
   * Add desktop styles for images
-  * Add desktop styles for contact info and footer (include google map)
+  * Add desktop styles for contact info and footer
 
 ## Hey Mikey, I Think He Likes It! Mode
 - Create a new logo for Swamp Rabbit Cycling
