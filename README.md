@@ -47,8 +47,9 @@ After completing this assignment, you will be able to effectively use:
 
 * A repo containing at least:
   * `index.html`
-  * `static/<css files>.css`
-	* `app.py`
+  * `css/styles.css`
+  * `css/normalize.css'
+  * `images/
 
 ## I'm a Web Developer Mode
 
