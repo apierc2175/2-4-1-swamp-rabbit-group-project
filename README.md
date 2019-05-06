@@ -36,7 +36,7 @@ After completing this assignment, you will be able to effectively use:
 * A repo containing at least:
   * `index.html`
   * `css/styles.css`
-  * `css/normalize.css'
+  * `css/normalize.css`
   * `images/`
 
 ## I'm a Web Developer Mode
