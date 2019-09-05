@@ -16,4 +16,17 @@ section.logo img {
   margin: 10px auto;
 }
 
+section.gear {
+  background-color: #D3D3D3;
+  width: 100%;
+  margin: 10px 30px;
+  display: block;
+  margin: 10px auto;
+}
+
+section.gear h1 {
+  padding: 15px;
+  font-family: Helvetica arial sans-serif;
+}
+
 /*# sourceMappingURL=styles.css.map */
