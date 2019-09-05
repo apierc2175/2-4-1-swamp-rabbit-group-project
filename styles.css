@@ -1,3 +1,4 @@
+
 /*green*/
 /*darkgray*/
 /*lightgray*/
@@ -30,3 +31,11 @@ section.gear h1 {
 }
 
 /*# sourceMappingURL=styles.css.map */
+
+.swamp-llc {
+  border-top: solid 2px #000;
+}
+
+.swamp-info {
+  border-top: solid 2px #000;
+}
