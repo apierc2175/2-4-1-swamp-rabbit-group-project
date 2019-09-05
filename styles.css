@@ -1,0 +1,19 @@
+/*green*/
+/*darkgray*/
+/*lightgray*/
+section.logo {
+  background-color: #D3D3D3;
+  width: 100%;
+  margin: 10px 30px;
+  display: block;
+  margin: 10px auto;
+}
+
+section.logo img {
+  display: block;
+  width: 90%;
+  max-height: 600px;
+  margin: 10px auto;
+}
+
+/*# sourceMappingURL=styles.css.map */
